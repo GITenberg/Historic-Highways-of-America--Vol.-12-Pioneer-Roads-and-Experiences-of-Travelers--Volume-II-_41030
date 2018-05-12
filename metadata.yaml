@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '1112'
     url: http://www.gutenberg.org/2009/agents/1112
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41030#Historic-Highways-of-America--Vol.-12-Pioneer-Roads-and-Experiences-of-Travelers--Volume-II-
 gutenberg_issued: '2012-10-11'
 gutenberg_type: Text
 identifiers:
